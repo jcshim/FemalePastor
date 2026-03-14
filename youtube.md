@@ -1,7 +1,8 @@
 # 참고 자료 모음
 
 ## 1. 우주의 크기
-- [우주의 크기](https://youtube.com/shorts/RC8pj81o6_w?si=7r5zdTBKWDFfEkNH)
+- [우주의 크기1](https://youtube.com/shorts/dnVCWM20Xt8?si=s8g0FBXWFho8gsp8)
+- [우주의 크기2](https://youtube.com/shorts/RC8pj81o6_w?si=7r5zdTBKWDFfEkNH)
 
 ## 2. 제임스 웹 우주망원경
 - [제임스웹](https://youtu.be/M0FWkTttS04?si=pVinmA5kt0RPiVln)
